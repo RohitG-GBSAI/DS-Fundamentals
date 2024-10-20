@@ -1,0 +1,25 @@
+{
+    "country_tier": [
+        1,
+        2,
+        3
+    ],
+    "visa_rates": {
+        "usa":800,
+        "sri_lanka": 1500,
+        "china" :   2000,
+        "japan" : 1000 
+    },
+    "airports_location": [
+    "new_york",
+    "dallas",
+    "beijing",
+    "colombo",
+    "hong_kong",
+    "kandy",
+    "wuhan",
+    "chicago",
+    "tokyo"
+    ],
+    "application_name": "Passenger Management System"
+}
